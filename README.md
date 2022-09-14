@@ -1,5 +1,5 @@
 # Security-Engineering
-By [Nidumolu](./Security-Engineering/README.md)
+By [Nidumolu](Nidumolu1974/Security-Engineering/README.md)
 
 - I am studying for the interviews. This is my first job in security and a lot of people have asked me how I studied. My notes consist mostly of a list of terms and technologies to learn, plus little tidbits that helped me remember certain details. At the end are interview tips I made for myself and that I find myself saying to others looking to interview.
 
